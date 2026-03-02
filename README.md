@@ -34,37 +34,47 @@ I love turning messy datasets into clean insights and shipping tools that actual
 
 ## 🚀 Featured Projects
 
-### 🎯 [CareerIQ — AI Based Career Advisory System](https://github.com/nadeem12-cloud/CareerIQ)
-> India's job market intelligence dashboard — filter by role & city, explore hiring trends, skill demand, and experience distribution across 1,957 job listings and 58 locations.
+### 🛡️ [AttendGuard](https://github.com/nadeem12-cloud/AttendGuard)
+> Full-stack attendance tracking web app — built it, broke it, fixed it, shipped it.
+- 🔐 Firebase Auth + Realtime Database
+- 📊 Analytics with Chart.js, calendar-based attendance editor
+- 🌙 Dark/Light theme toggle
+- 👥 Actually used by real college friends
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-careeriq--mkv.streamlit.app-brightgreen?style=for-the-badge&logo=streamlit)](https://careeriq-mkv.streamlit.app)
-`Python` `Streamlit` `Plotly` `Pandas` `Scikit-learn` `Twilio`
-
----
-
-### 🚗 [Movora — Smart Car Finder](https://github.com/nadeem12-cloud/Movora)
-> Budget-based car discovery tool. Set your price range and instantly browse matching vehicles from a rich Kaggle dataset with detailed specs.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-movora.streamlit.app-brightgreen?style=for-the-badge&logo=streamlit)](https://movora.streamlit.app)
-`Python` `Streamlit` `Pandas` `Kaggle Dataset`
+[![Live Demo](https://img.shields.io/badge/Live-attendguard.web.app-7c6aff?style=flat-square&logo=firebase)](https://attendguard.web.app)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-### 🍽️ [FoodMood — AI Mood Food Recommender](https://github.com/nadeem12-cloud/FoodMood)
-> My first AI project. Tell it your mood, time of day & weather — it recommends what to eat. Built end-to-end: data → encoding → model → deployment.
+### 📊 [CareerIQ](https://github.com/nadeem12-cloud/CareerIQ)
+> AI-based career advisory system analyzing India's job market across 1,957 listings.
+- 📍 58 cities, 8 roles, skills demand intelligence
+- 💬 WhatsApp insights via Twilio
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-foodmood.streamlit.app-brightgreen?style=for-the-badge&logo=streamlit)](https://foodmood.streamlit.app)
-`Python` `Streamlit` `Scikit-learn` `Joblib` `LabelEncoder`
+[![Live Demo](https://img.shields.io/badge/Live-careeriq--mkv.streamlit.app-FF4B4B?style=flat-square&logo=streamlit)](https://careeriq-mkv.streamlit.app)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+### 🌙 [Digital Mushayara](https://github.com/nadeem12-cloud/digital-mushayara)
+> Personal Urdu/Hindi poetry platform — 261 poems, fully automated publish pipeline.
+- 📱 Phone → Google Drive → auto-sync → live website
+- 🎨 Quote card export (1080×1080), Urdu reactions, mood filters
+
+[![Live Demo](https://img.shields.io/badge/Live-nadeemmemon.pythonanywhere.com-3776AB?style=flat-square&logo=python)](https://nadeemmemon.pythonanywhere.com)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-### 🌙 [Digital Mushayara — Personal Poetry Platform](https://github.com/nadeem12-cloud/digital-mushayara)
-> 261 poems from a notes app → a full-stack publishing platform. Search, filter by mood, react in Urdu, export quote cards, and read shaayaris on any device.
+### 🚗 [Movora](https://github.com/nadeem12-cloud/Movora) &nbsp;·&nbsp; 🍽️ [FoodMood](https://github.com/nadeem12-cloud/FoodMood)
+> Budget-based car finder &nbsp;·&nbsp; My first ML project — mood-based food recommender
 
-[![Live](https://img.shields.io/badge/Live-nadeemmemon.pythonanywhere.com-blueviolet?style=for-the-badge&logo=python)](https://nadeemmemon.pythonanywhere.com)
-`Python` `Flask` `JavaScript` `Google Drive API` `html2canvas` `PythonAnywhere`
-
----
+[![Movora](https://img.shields.io/badge/Live-movora.streamlit.app-FF4B4B?style=flat-square&logo=streamlit)](https://movora.streamlit.app)
+[![FoodMood](https://img.shields.io/badge/Live-foodmood.streamlit.app-FF4B4B?style=flat-square&logo=streamlit)](https://foodmood.streamlit.app)
 
 ## 📊 GitHub Stats
 
