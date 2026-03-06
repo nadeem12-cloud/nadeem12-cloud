@@ -36,14 +36,18 @@ I love turning messy datasets into clean insights and shipping tools that actual
 
 **Data & ML**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Google Drive API](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=flat-square&logo=googledrive&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3776AB?style=flat-square&logo=python&logoColor=white)
+![RapidAPI](https://img.shields.io/badge/RapidAPI-0055DA?style=flat-square&logo=rapidapi&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 
 ---
 
@@ -64,13 +68,17 @@ I love turning messy datasets into clean insights and shipping tools that actual
 ---
 
 ### 📊 [CareerIQ](https://github.com/nadeem12-cloud/CareerIQ)
-> AI-based career advisory system analyzing India's job market across 1,957 listings.
-- 📍 58 cities, 8 roles, skills demand intelligence
-- 💬 WhatsApp insights via Twilio
+> AI-based career advisory system with live LinkedIn job data via JSearch API.
+- 📍 Real-time job market analytics across 58 cities & 8 roles
+- 🔍 Live data scraping via JSearch API (RapidAPI)
+- 🔧 Skill demand intelligence with role-based filtering
+- 💬 WhatsApp market reports via Twilio
 
 [![Live Demo](https://img.shields.io/badge/Live-careeriq--mkv.streamlit.app-FF4B4B?style=flat-square&logo=streamlit)](https://careeriq-mkv.streamlit.app)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![RapidAPI](https://img.shields.io/badge/RapidAPI-0055DA?style=flat-square&logo=rapidapi&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 
 ---
 
@@ -90,6 +98,8 @@ I love turning messy datasets into clean insights and shipping tools that actual
 
 [![Movora](https://img.shields.io/badge/Live-movora.streamlit.app-FF4B4B?style=flat-square&logo=streamlit)](https://movora.streamlit.app)
 [![FoodMood](https://img.shields.io/badge/Live-foodmood.streamlit.app-FF4B4B?style=flat-square&logo=streamlit)](https://foodmood.streamlit.app)
+
+---
 
 ## 📊 GitHub Stats
 
