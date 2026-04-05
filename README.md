@@ -124,8 +124,6 @@
 ### 🏅 Certifications
 
 - 🤖 **AI Fluency for Students** — Anthropic (2026)
-- 🐍 **Python Essentials** — Cisco NetAcad (2025)
-
 ---
 
 ### 🌐 Let's Connect
