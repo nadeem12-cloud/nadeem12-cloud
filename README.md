@@ -1,222 +1,300 @@
-<div align="center">
+<!-- Top Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammad%20Nadeem%20Memon&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Builder&descSize=18&descAlignY=68" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Nadeem%20Memon&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Builder&descAlignY=55&descSize=18" />
+<h2 align="center">👋 Hello, I'm Nadeem</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=620&lines=Building+real-world+AI+products+%F0%9F%9A%80;Turning+messy+data+into+clean+insights+%F0%9F%93%8A;Open+to+internships+in+DS+%2F+ML+%2F+AI+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Shipping+tools+that+actually+work+%F0%9F%8F%8F;Also+a+poet+%F0%9F%8C%99+261%2B+original+shaayaris)](https://git.io/typing-svg)
+<p align="center">
+  Aspiring Data Scientist · ML Enthusiast · Urdu Poet 🌙 <br />
+  Building real-world AI products and shipping tools that actually help people make smarter decisions.
+</p>
 
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-nadeem = {
-    "location"   : "Vallabh Vidyanagar, Gujarat 🇮🇳",
-    "education"  : "B.Tech CSE — MBIT (Lateral Entry · 7.21 GPA)",
-    "currently"  : ["Building ML projects", "IPL 2026 predictions", "Placement prep"],
-    "looking_for": "Internships in Data Science / ML / Python Dev",
-    "fun_fact"   : "Built my first AI project with 50 rows of data — and it works!",
-    "also"       : "Urdu & Hindi poet 🌙 — 261+ original shaayaris published",
-}
-```
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**ML & Data**
-
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-**Frontend & Backend**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3776AB?style=flat-square&logo=python&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![RapidAPI](https://img.shields.io/badge/RapidAPI-0055DA?style=flat-square&logo=rapidapi&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nadeem10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+  &nbsp;
+  <a href="https://ipl-predictor-79.streamlit.app"><img src="https://img.shields.io/badge/IPL%20Predictor-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
+  &nbsp;
+  <a href="https://nadeemmemon.pythonanywhere.com"><img src="https://img.shields.io/badge/Digital%20Mushayara-6C3483?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
+  &nbsp;
+  <a href="https://careeriq-mkv.streamlit.app"><img src="https://img.shields.io/badge/CareerIQ-20BEFF?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏏 [IPL Match Predictor 2026](https://github.com/nadeem12-cloud/ipl-predictor)
-> ML-powered IPL win predictor — Playing XII, Pre/Post Toss, SHAP reasoning
-
-- 🤖 XGBoost trained on **16 years** of ball-by-ball data
-- 📊 SHAP feature importance — predicts *why*, not just *who*
-- ⚡ Impact Player rule — select 11 + 1 (IPL 2026)
-- 🏟️ All 10 official 2026 post-auction squads
-- 📈 **ROC-AUC: 0.69** · Accuracy: ~62%
-
-[![Live](https://img.shields.io/badge/Live-ipl--predictor-FF4B4B?style=flat-square&logo=streamlit)](https://ipl-predictor-79.streamlit.app)
-[![Repo](https://img.shields.io/badge/GitHub-ipl--predictor-181717?style=flat-square&logo=github)](https://github.com/nadeem12-cloud/ipl-predictor)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [CareerIQ](https://github.com/nadeem12-cloud/CareerIQ)
-> AI career advisory system with live job market intelligence
-
-- 📍 Real-time job data across **58 cities & 8 roles**
-- 🔍 Live LinkedIn data via JSearch API (RapidAPI)
-- 🔧 TF-IDF + scikit-learn recommendation engine
-- 💬 WhatsApp market reports via Twilio API
-
-[![Live](https://img.shields.io/badge/Live-careeriq--mkv-FF4B4B?style=flat-square&logo=streamlit)](https://careeriq-mkv.streamlit.app)
-[![Repo](https://img.shields.io/badge/GitHub-CareerIQ-181717?style=flat-square&logo=github)](https://github.com/nadeem12-cloud/CareerIQ)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌙 [Digital Mushayara](https://github.com/nadeem12-cloud/digital-mushayara)
-> Personal Urdu/Hindi poetry platform — 261+ original poems, automated pipeline
-
-- 📱 Phone → Google Drive → auto-sync → live website
-- 🎨 Instagram story card generator (1080×1080)
-- 🔖 CMS panel, Reading Mode, Saved Shaayaris, Daily Featured
-- 📊 Stats dashboard + Surprise Me button
-
-[![Live](https://img.shields.io/badge/Live-nadeemmemon.pythonanywhere.com-3776AB?style=flat-square&logo=python)](https://nadeemmemon.pythonanywhere.com)
-[![Repo](https://img.shields.io/badge/GitHub-digital--mushayara-181717?style=flat-square&logo=github)](https://github.com/nadeem12-cloud/digital-mushayara)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [AttendGuard](https://github.com/nadeem12-cloud/AttendGuard)
-> Full-stack attendance tracker — built it, broke it, fixed it, shipped it
-
-- 🔐 Firebase Auth + Realtime Database
-- 📊 Analytics with Chart.js + calendar-based editor
-- 🌙 Dark/Light theme toggle
-- 👥 Actually used by real college friends
-
-[![Live](https://img.shields.io/badge/Live-attendguard.web.app-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://attendguard.web.app)
-[![Repo](https://img.shields.io/badge/GitHub-AttendGuard-181717?style=flat-square&logo=github)](https://github.com/nadeem12-cloud/AttendGuard)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [PrepStation](https://github.com/nadeem12-cloud/PrepStation)
-> Open-source placement prep portal for CS students
-
-- 📚 DSA, aptitude, CS fundamentals in one place
-- 🏢 Company-wise prep — TCS, Infosys, Wipro, HCL, Accenture
-- ⚡ Rapidly shipped with React + Vercel
-
-[![Live](https://img.shields.io/badge/Live-prepstation.vercel.app-000000?style=flat-square&logo=vercel)](https://prepstation.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-PrepStation-181717?style=flat-square&logo=github)](https://github.com/nadeem12-cloud/PrepStation)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗞️ [TechDesk](https://github.com/nadeem12-cloud/TechDesk) &nbsp;·&nbsp; 🚗 [Movora](https://github.com/nadeem12-cloud/Movora)
-> AI news feed · Budget-based car recommender
-
-- 🤖 TechDesk — React + Gemini API for AI-powered tech news
-- 🚗 Movora — ML car recommendation engine
-- 🍽️ FoodMood — My very first ML project
-
-[![TechDesk](https://img.shields.io/badge/Live-TechDesk-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://techdesk-seven.vercel.app)
-[![Movora](https://img.shields.io/badge/Live-Movora-FF4B4B?style=flat-square&logo=streamlit)](https://movora.streamlit.app)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-
-</td>
-</tr>
-</table>
+- 🤖 Currently building **ML-powered products** with Python, XGBoost & Streamlit
+- 🏏 Just shipped an **IPL Match Predictor** — trained on 16 years of ball-by-ball data
+- 🌱 Growing in **Machine Learning, Deep Learning & System Design**
+- 🎓 B.Tech CSE @ **MBIT Vallabh Vidyanagar** (Lateral Entry · 7.21 GPA)
+- 💡 Passionate about solving real problems with data — not just Kaggle notebooks
+- 📬 Open to **internships** in Data Science, ML & Python Development
+- 🌙 Fun fact: I'm also a poet — **261+ original Urdu/Hindi shaayaris** published
+- ⚡ Started with 50 rows of data. Still shipping.
 
 ---
 
-## 📊 GitHub Stats
+### 🧰 Tools & Technologies
 
-<div align="center">
+#### 🐍 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nadeem12-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem12-cloud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+#### 🤖 ML & Data Science
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="tensorflow" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" height="48" alt="jupyter" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" height="48" alt="streamlit" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib" />
+</p>
 
-<br/>
+#### 🌐 Web & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flask,tailwind,firebase,sqlite" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeem12-cloud&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
+#### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/PythonAnywhere-3776AB?style=flat-square&logo=python&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" height="32"/>
+</p>
 
 ---
 
-## 🏆 Certifications
+### 🏗️ Featured Projects
 
-| 🏅 Certificate | 🏢 Issuer | 📅 Year |
-|----------------|-----------|---------|
-| AI Fluency for Students | Anthropic | 2026 |
+| 🏏 [IPL Match Predictor 2026](https://github.com/nadeem12-cloud/ipl-predictor) | 📊 [CareerIQ](https://github.com/nadeem12-cloud/CareerIQ) |
+|---|---|
+| XGBoost · 16 yrs data · Playing XII · SHAP reasoning | TF-IDF · Live job data · WhatsApp reports via Twilio |
+| ROC-AUC: 0.69 · Accuracy: ~62% | 58 cities · 8 roles · JSearch API |
+| [![Live](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit)](https://ipl-predictor-79.streamlit.app) | [![Live](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit)](https://careeriq-mkv.streamlit.app) |
 
+| 🌙 [Digital Mushayara](https://github.com/nadeem12-cloud/digital-mushayara) | 🛡️ [AttendGuard](https://github.com/nadeem12-cloud/AttendGuard) |
+|---|---|
+| Flask · SQLite · 261+ poems · Auto-publish pipeline | Firebase Auth · Chart.js · Used by real college friends |
+| Instagram story cards · CMS · Reading Mode | Dark/light theme · Calendar editor · Analytics |
+| [![Live](https://img.shields.io/badge/Live-App-3776AB?style=flat-square&logo=python)](https://nadeemmemon.pythonanywhere.com) | [![Live](https://img.shields.io/badge/Live-App-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://attendguard.web.app) |
+
+| 🎓 [PrepStation](https://github.com/nadeem12-cloud/PrepStation) | 🗞️ [TechDesk](https://github.com/nadeem12-cloud/TechDesk) |
+|---|---|
+| React · Open-source placement prep for CS students | React · Gemini API · AI-powered tech news feed |
+| DSA · Aptitude · Company-wise interview prep | Live summaries · Deployed on Vercel |
+| [![Live](https://img.shields.io/badge/Live-App-000000?style=flat-square&logo=vercel)](https://prepstation.vercel.app) | [![Live](https://img.shields.io/badge/Live-App-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://techdesk-seven.vercel.app) |
 
 ---
 
-## 🤝 Let's Connect
+### 📈 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadeem12-cloud&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Nadeem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem10)
-[![GitHub](https://img.shields.io/badge/GitHub-nadeem12--cloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem12-cloud)
-[![IPL Predictor](https://img.shields.io/badge/IPL%20Predictor-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ipl-predictor-79.streamlit.app)
-[![Poetry](https://img.shields.io/badge/Digital%20Mushayara-Urdu%20Poetry-6C3483?style=for-the-badge&logo=python&logoColor=white)](https://nadeemmemon.pythonanywhere.com)
+### 🔥 Current Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=nadeem12-cloud&hide_border=true&theme=tokyonight)
 
-</div>
+### 💬 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem12-cloud&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeem12-cloud&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph%20-%20nadeem12-cloud" width="100%" alt="Contribution Graph" />
+</p>
 
 ---
 
-<div align="center">
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nadeem12-cloud&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=nadeem12-cloud&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS" />
+---
 
-<br/><br/>
+### 🏅 Certifications
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+- 🤖 **AI Fluency for Students** — Anthropic (2026)
+---
 
-*"Every big project starts somewhere — mine started with 50 rows of data."* 🚀
+### 🌐 Let's Connect
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nadeem10" style="margin:5px;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="https://github.com/nadeem12-cloud" style="margin:5px;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+  <a href="https://instagram.com/talksicknadeem" style="margin:5px;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/></a>
+  <a href="https://nadeemmemon.pythonanywhere.com" style="margin:5px;"><img src="https://img.shields.io/badge/Digital%20Mushayara-6C3483?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
+  <a href="https://ipl-predictor-79.streamlit.app" style="margin:5px;"><img src="https://img.shields.io/badge/IPL%20Predictor-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadeem12-cloud&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center"><i>"Every big project starts somewhere — mine started with 50 rows of data."</i> 🚀</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
+<!-- Top Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammad%20Nadeem%20Memon&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Builder&descSize=18&descAlignY=68" />
+</p>
+
+<h2 align="center">👋 Hello, I'm Nadeem</h2>
+
+<p align="center">
+  Aspiring Data Scientist · ML Enthusiast · Urdu Poet 🌙 <br />
+  Building real-world AI products and shipping tools that actually help people make smarter decisions.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nadeem10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+  &nbsp;
+  <a href="https://ipl-predictor-79.streamlit.app"><img src="https://img.shields.io/badge/IPL%20Predictor-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
+  &nbsp;
+  <a href="https://nadeemmemon.pythonanywhere.com"><img src="https://img.shields.io/badge/Digital%20Mushayara-6C3483?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
+  &nbsp;
+  <a href="https://careeriq-mkv.streamlit.app"><img src="https://img.shields.io/badge/CareerIQ-20BEFF?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🤖 Currently building **ML-powered products** with Python, XGBoost & Streamlit
+- 🏏 Just shipped an **IPL Match Predictor** — trained on 16 years of ball-by-ball data
+- 🌱 Growing in **Machine Learning, Deep Learning & System Design**
+- 🎓 B.Tech CSE @ **MBIT Vallabh Vidyanagar** (Lateral Entry · 7.21 GPA)
+- 💡 Passionate about solving real problems with data — not just Kaggle notebooks
+- 📬 Open to **internships** in Data Science, ML & Python Development
+- 🌙 Fun fact: I'm also a poet — **261+ original Urdu/Hindi shaayaris** published
+- ⚡ Started with 50 rows of data. Still shipping.
+
+---
+
+### 🧰 Tools & Technologies
+
+#### 🐍 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+</p>
+
+#### 🤖 ML & Data Science
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="tensorflow" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" height="48" alt="jupyter" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" height="48" alt="streamlit" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib" />
+</p>
+
+#### 🌐 Web & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flask,tailwind,firebase,sqlite" />
+</p>
+
+#### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/PythonAnywhere-3776AB?style=flat-square&logo=python&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" height="32"/>
+</p>
+
+---
+
+### 🏗️ Featured Projects
+
+| 🏏 [IPL Match Predictor 2026](https://github.com/nadeem12-cloud/ipl-predictor) | 📊 [CareerIQ](https://github.com/nadeem12-cloud/CareerIQ) |
+|---|---|
+| XGBoost · 16 yrs data · Playing XII · SHAP reasoning | TF-IDF · Live job data · WhatsApp reports via Twilio |
+| ROC-AUC: 0.69 · Accuracy: ~62% | 58 cities · 8 roles · JSearch API |
+| [![Live](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit)](https://ipl-predictor-79.streamlit.app) | [![Live](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit)](https://careeriq-mkv.streamlit.app) |
+
+| 🌙 [Digital Mushayara](https://github.com/nadeem12-cloud/digital-mushayara) | 🛡️ [AttendGuard](https://github.com/nadeem12-cloud/AttendGuard) |
+|---|---|
+| Flask · SQLite · 261+ poems · Auto-publish pipeline | Firebase Auth · Chart.js · Used by real college friends |
+| Instagram story cards · CMS · Reading Mode | Dark/light theme · Calendar editor · Analytics |
+| [![Live](https://img.shields.io/badge/Live-App-3776AB?style=flat-square&logo=python)](https://nadeemmemon.pythonanywhere.com) | [![Live](https://img.shields.io/badge/Live-App-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://attendguard.web.app) |
+
+| 🎓 [PrepStation](https://github.com/nadeem12-cloud/PrepStation) | 🗞️ [TechDesk](https://github.com/nadeem12-cloud/TechDesk) |
+|---|---|
+| React · Open-source placement prep for CS students | React · Gemini API · AI-powered tech news feed |
+| DSA · Aptitude · Company-wise interview prep | Live summaries · Deployed on Vercel |
+| [![Live](https://img.shields.io/badge/Live-App-000000?style=flat-square&logo=vercel)](https://prepstation.vercel.app) | [![Live](https://img.shields.io/badge/Live-App-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://techdesk-seven.vercel.app) |
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadeem12-cloud&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+### 🔥 Current Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=nadeem12-cloud&hide_border=true&theme=tokyonight)
+
+### 💬 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem12-cloud&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeem12-cloud&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph%20-%20nadeem12-cloud" width="100%" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nadeem12-cloud&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8" />
+</p>
+
+---
+
+### 🏅 Certifications
+
+- 🤖 **AI Fluency for Students** — Anthropic (2026)
+- 🐍 **Python Essentials** — Cisco NetAcad (2025)
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nadeem10" style="margin:5px;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="https://github.com/nadeem12-cloud" style="margin:5px;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+  <a href="https://instagram.com/talksicknadeem" style="margin:5px;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/></a>
+  <a href="https://nadeemmemon.pythonanywhere.com" style="margin:5px;"><img src="https://img.shields.io/badge/Digital%20Mushayara-6C3483?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
+  <a href="https://ipl-predictor-79.streamlit.app" style="margin:5px;"><img src="https://img.shields.io/badge/IPL%20Predictor-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadeem12-cloud&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center"><i>"Every big project starts somewhere — mine started with 50 rows of data."</i> 🚀</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
