@@ -124,6 +124,7 @@
 ### 🏅 Certifications
 
 - 🤖 **AI Fluency for Students** — Anthropic (2026)
+- 🤖 **Claude 101**  — Anthropic (2026)
 ---
 
 ### 🌐 Let's Connect
