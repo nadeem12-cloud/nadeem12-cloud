@@ -6,8 +6,11 @@
 <h2 align="center">👋 Hello, I'm Nadeem</h2>
 
 <p align="center">
-  <strong>I don't just train models — I ship products that real people use.</strong><br />
-  Data Scientist · ML Engineer · Urdu Poet 🌙
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=24243E&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer+%7C+Builder;Shipping+Production+ML+Products;6%2B+Live+Deployments+%7C+Real+Users;From+50+Rows+to+Millions+of+Records" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>I don't just train models — I ship products that real people use.</strong>
 </p>
 
 <p align="center">
@@ -18,6 +21,23 @@
   <a href="https://nadeemmemon.pythonanywhere.com"><img src="https://img.shields.io/badge/Digital%20Mushayara-6C3483?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
   &nbsp;
   <a href="https://careeriq-mkv.streamlit.app"><img src="https://img.shields.io/badge/CareerIQ-20BEFF?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
+</p>
+
+---
+
+### 📊 Live Project Status
+
+<p align="center">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fipl-predictor-79.streamlit.app&up_message=LIVE&up_color=00C851&down_message=DOWN&down_color=ff4444&style=for-the-badge&label=IPL%20Predictor&logo=streamlit" />
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fnadeemmemon.pythonanywhere.com&up_message=LIVE&up_color=00C851&down_message=DOWN&down_color=ff4444&style=for-the-badge&label=Digital%20Mushayara&logo=python" />
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fcareeriq-mkv.streamlit.app&up_message=LIVE&up_color=00C851&down_message=DOWN&down_color=ff4444&style=for-the-badge&label=CareerIQ&logo=streamlit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Production_Projects-6-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active_Deployments-6-00C851?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML_Models_Deployed-2-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs_Integrated-4-20BEFF?style=for-the-badge" />
 </p>
 
 ---
@@ -42,11 +62,10 @@ I started my ML journey analyzing **50 rows of cricket data**. Today I'm shippin
 - I don't just follow tutorials — I identify gaps and build solutions (spotted placement GK problem → built TechDesk news aggregator)
 - I deploy to production, not just Jupyter notebooks — every project has a live URL
 - I iterate based on real usage — fixed SHAP/numba conflicts, session state bugs, UI/UX issues through actual user feedback
-- I document obsessively — 8 fortnightly reports for mini projects, detailed READMEs, LinkedIn breakdowns
+- I document obsessively — Reports for mini projects, detailed READMEs, LinkedIn breakdowns
 
 **Beyond the code:**
 - 🌙 Published poet with **261+ original Urdu/Hindi shaayaris** organized into multi-volume collection "Kaanton ka Gulaab"
-- 📝 Shifted from romantic to philosophical writing — now writing for truth, not applause
 - 🏏 Cricket analytics enthusiast — built predictors, studied team dynamics, analyzed playing XI impact
 
 **Open to:**
@@ -233,6 +252,10 @@ React app with Gemini API integration for AI-summarized tech news. Built to solv
 
 ### 📊 GitHub Analytics
 
+<details open>
+<summary><b>📈 Performance Metrics (Click to collapse)</b></summary>
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nadeem12-cloud&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=nadeem12-cloud&hide_border=true&theme=tokyonight" width="49%" />
@@ -242,6 +265,8 @@ React app with Gemini API integration for AI-summarized tech news. Built to solv
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem12-cloud&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeem12-cloud&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="49%" />
 </p>
+
+</details>
 
 ---
 
@@ -278,7 +303,7 @@ I believe in:
   <a href="https://www.linkedin.com/in/nadeem10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>
   <a href="https://github.com/nadeem12-cloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
   <a href="https://instagram.com/talksicknadeem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32"/></a>
-  <a href="mailto:nadeemmemon1210@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>
+  <a href="mailto:nadeemmemon735@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>
 </p>
 
 <p align="center">
@@ -289,6 +314,8 @@ I believe in:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nadeem12-cloud&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Last_Updated-April_2026-24243E?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/nadeem12-cloud?style=for-the-badge&color=302b63&labelColor=0f0c29" />
 </p>
 
 <p align="center">
