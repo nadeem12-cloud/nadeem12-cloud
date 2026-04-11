@@ -48,7 +48,6 @@ I started my ML journey analyzing **50 rows of cricket data**. Today I'm shippin
 - 🌙 Published poet with **261+ original Urdu/Hindi shaayaris** organized into multi-volume collection "Kaanton ka Gulaab"
 - 📝 Shifted from romantic to philosophical writing — now writing for truth, not applause
 - 🏏 Cricket analytics enthusiast — built predictors, studied team dynamics, analyzed playing XI impact
-- 🎬 Anime fan — recently finished Attack on Titan, currently watching Fire Force
 
 **Open to:**
 - 💼 **Internships** in Data Science, ML Engineering & Python Development
