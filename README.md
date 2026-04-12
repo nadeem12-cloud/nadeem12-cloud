@@ -18,7 +18,7 @@
   &nbsp;
   <a href="https://ipl-predictor-79.streamlit.app"><img src="https://img.shields.io/badge/IPL%20Predictor-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
   &nbsp;
-  <a href="https://nadeemmemon.pythonanywhere.com"><img src="https://img.shields.io/badge/Digital%20Mushayara-6C3483?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
+  <a href="https://nadeemmemon.pythonanywhere.com/"><img src="https://img.shields.io/badge/Digital%20Mushayara-6C3483?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
   &nbsp;
   <a href="https://careeriq-mkv.streamlit.app"><img src="https://img.shields.io/badge/CareerIQ-20BEFF?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
 </p>
