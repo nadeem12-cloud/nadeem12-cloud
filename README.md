@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fipl-predictor-79.streamlit.app&up_message=LIVE&up_color=00C851&down_message=DOWN&down_color=ff4444&style=for-the-badge&label=IPL%20Predictor&logo=streamlit" />
-  <img src="https://img.shields.io/website?url=[https://nadeemmemon.pythonanywhere.com/](https://nadeemmemon.pythonanywhere.com/)&up_message=LIVE&up_color=00C851&down_message=DOWN&down_color=ff4444&style=for-the-badge&label=Digital%20Mushayara&logo=python" />
+  <a href="https://nadeemmemon.pythonanywhere.com/"><img src="https://img.shields.io/badge/Digital%20Mushayara-6C3483?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fcareeriq-mkv.streamlit.app&up_message=LIVE&up_color=00C851&down_message=DOWN&down_color=ff4444&style=for-the-badge&label=CareerIQ&logo=streamlit" />
 </p>
 
