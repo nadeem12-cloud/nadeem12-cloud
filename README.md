@@ -36,60 +36,34 @@
 
 ## 🎯 **About Me**
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-**🚀 Quick Intro**
+### 👨‍💻 Mohammad Nadeem Memon
+**ML Engineer & Full-Stack Builder** | B.Tech CSE @ MBIT, Gujarat
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Mohammad Nadeem Memon"
-        self.role = "ML Engineer & Full-Stack Builder"
-        self.education = "B.Tech CSE @ MBIT, Gujarat"
-        self.focus = ["Machine Learning", "Data Science", "Production Deployment"]
-        self.philosophy = "Ship products that solve real problems"
-```
+</div>
 
-</td>
-<td>
+### 🚀 **What I Do**
 
-**💼 Current Work**
+- 🏏 **IPL Predictor** — XGBoost model trained on 16 years of ball-by-ball data with SHAP explainability
+- 🌙 **Digital Mushayara** — Poetry platform hosting 261+ original Urdu/Hindi pieces with CMS
+- 💼 **CareerIQ** — Job intelligence engine processing 30k+ listings with TF-IDF matching
+- 🎓 **PrepStation** — Open-source placement prep portal for CS students
 
-- 🏏 **IPL Predictor** — XGBoost on 16 years of data
-- 🌙 **Digital Mushayara** — 261+ original poems
-- 💼 **CareerIQ** — 30k+ job listings platform
-- 🎓 **PrepStation** — Open-source prep portal
+### 💻 **Tech Stack**
 
-</td>
-</tr>
-</table>
+**Languages:** Python • JavaScript • SQL • HTML/CSS  
+**ML & Data:** XGBoost • TensorFlow • scikit-learn • SHAP • Pandas • NumPy  
+**Web Development:** React • Flask • TailwindCSS • Streamlit  
+**Deployment:** Streamlit Cloud • Vercel • PythonAnywhere • Firebase  
+**Tools:** Git • Jupyter • Google Colab • Postman
 
-**🔧 Tech Stack at a Glance**
+### 💪 **What Drives Me**
 
-<details>
-<summary>Click to expand</summary>
-
-```python
-def tech_stack(self):
-    return {
-        "languages": ["Python", "JavaScript", "SQL"],
-        "ml_frameworks": ["XGBoost", "TensorFlow", "scikit-learn", "SHAP"],
-        "web": ["React", "Flask", "TailwindCSS"],
-        "deployment": ["Streamlit Cloud", "Vercel", "PythonAnywhere", "Firebase"],
-        "tools": ["Git", "Jupyter", "Google Colab", "Postman"]
-    }
-```
-
-</details>
-
-**💪 What Drives Me**
-
-- 🎯 **Impact over aesthetics** — tools that solve problems, not just look good
-- 🏗️ **Shipping beats perfecting** — 6+ live products in production
-- 🧠 **End-to-end ownership** — data → model → deployment → iteration
-- 📊 **Explainability matters** — SHAP, feature importance, transparency
+- 🎯 **Impact over aesthetics** — Building tools that solve real problems, not just look good on GitHub
+- 🏗️ **Shipping beats perfecting** — 6+ live products in production, iterating based on real user feedback
+- 🧠 **End-to-end ownership** — From data scraping to model training to cloud deployment
+- 📊 **Explainability matters** — SHAP analysis, feature importance, transparent ML decisions
 
 ### 🌟 **What Makes Me Different**
 
@@ -404,38 +378,25 @@ Flask • SQLite • JavaScript • HTML/CSS • Python • ReportLab (PDF gener
 
 ## 🎯 **Current Focus**
 
-<table>
-<tr>
-<td width="50%">
-
 ### 📚 **Learning**
-- Deep Learning architectures
-- Advanced feature engineering
-- Cloud deployment (AWS/GCP)
-- LLM fine-tuning
-
-</td>
-<td width="50%">
+- 🧠 Deep Learning architectures
+- ⚙️ Advanced feature engineering techniques
+- ☁️ Cloud deployment (AWS/GCP)
+- 🤖 LLM fine-tuning and prompt engineering
 
 ### 🏗️ **Building**
-- Enhanced IPL predictor with player-level predictions
-- Multi-lingual poetry platform expansion
-- Automated job application system
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
+- 🏏 Enhanced IPL predictor with player-level predictions
+- 🌍 Multi-lingual poetry platform expansion
+- 🤖 Automated job application system with AI screening
 
 ### 💼 **Open To**
-🎯 Data Science Internships  
-🤖 ML Engineering roles  
-🐍 Full-Stack Python positions  
-🤝 Open-source collaborations
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Data_Science-Internships-00C851?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_ML_Engineering-Roles-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐍_Full--Stack_Python-Positions-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Open--Source-Collaborations-orange?style=for-the-badge" />
+</p>
 
 ---
 
