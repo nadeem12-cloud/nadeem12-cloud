@@ -1,323 +1,449 @@
-<!-- Top Banner -->
+<!-- Top Banner with Wave Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammad%20Nadeem%20Memon&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Builder&descSize=18&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Mohammad%20Nadeem%20Memon&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Builder&descSize=20&descAlignY=55" />
 </p>
 
-<h2 align="center">👋 Hello, I'm Nadeem</h2>
-
+<!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=24243E&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer+%7C+Builder;Shipping+Production+ML+Products;6%2B+Live+Deployments+%7C+Real+Users;From+50+Rows+to+Millions+of+Records" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Building+ML+Products+That+Solve+Real+Problems;6%2B+Live+Deployments+%7C+Actual+Users+%7C+Real+Impact;From+50+Rows+to+Millions+of+Records;Shipping+%3E+Perfecting+%7C+Production+%3E+Localhost" alt="Typing SVG" />
 </p>
 
+<!-- Profile Views & Social Proof -->
 <p align="center">
-  <strong>I don't just train models — I ship products that real people use.</strong>
+  <img src="https://komarev.com/ghpvc/?username=nadeem12-cloud&color=6366f1&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/nadeem12-cloud?style=flat-square&color=6366f1&labelColor=1e293b&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Machine_Learning-6366f1?style=flat-square&labelColor=1e293b" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00C851?style=flat-square&labelColor=1e293b" />
 </p>
 
+<!-- Quick Links with Icons -->
 <p align="center">
-  <a href="https://linkedin.com/in/nadeemmemon10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
-  &nbsp;
-  <a href="https://ipl-predictor-79.streamlit.app"><img src="https://img.shields.io/badge/IPL%20Predictor-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
-  &nbsp;
-  <a href="https://nadeemmemon.pythonanywhere.com/"><img src="https://img.shields.io/badge/Digital%20Mushayara-6C3483?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
-  &nbsp;
-  <a href="https://careeriq-mkv.streamlit.app"><img src="https://img.shields.io/badge/CareerIQ-20BEFF?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
+  <a href="https://linkedin.com/in/nadeemmemon10">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+  </a>
+  <a href="mailto:nadeemmemon735@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+  </a>
+  <a href="https://github.com/nadeem12-cloud">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+  </a>
+  <a href="https://instagram.com/talksicknadeem">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32"/>
+  </a>
 </p>
 
 ---
 
-### 📊 Live Project Status
+## 🎯 **About Me**
 
-<p align="center">
-   <a href="https://ipl-predictor-79.streamlit.app"><img src="https://img.shields.io/badge/IPL%20Predictor-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
-  &nbsp;
-  <a href="https://nadeemmemon.pythonanywhere.com/"><img src="https://img.shields.io/badge/Digital%20Mushayara-6C3483?style=for-the-badge&logo=python&logoColor=white" height="28"/></a>
-  <a href="https://careeriq-mkv.streamlit.app"><img src="https://img.shields.io/badge/CareerIQ-20BEFF?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/></a>
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Mohammad Nadeem Memon"
+        self.role = "ML Engineer & Full-Stack Builder"
+        self.education = "B.Tech CSE @ MBIT, Gujarat"
+        self.focus = ["Machine Learning", "Data Science", "Production Deployment"]
+        self.philosophy = "Ship products that solve real problems"
+        
+    def current_work(self):
+        return {
+            "🏏 IPL Predictor": "XGBoost model on 16 years of ball-by-ball data",
+            "🌙 Digital Mushayara": "Poetry platform with 261+ original pieces",
+            "💼 CareerIQ": "Job intelligence across 30k+ listings",
+            "🎓 PrepStation": "Open-source placement prep portal"
+        }
+    
+    def tech_stack(self):
+        return {
+            "languages": ["Python", "JavaScript", "SQL"],
+            "ml_frameworks": ["XGBoost", "TensorFlow", "scikit-learn", "SHAP"],
+            "web": ["React", "Flask", "TailwindCSS"],
+            "deployment": ["Streamlit Cloud", "Vercel", "PythonAnywhere", "Firebase"],
+            "tools": ["Git", "Jupyter", "Google Colab", "Postman"]
+        }
+    
+    def what_drives_me(self):
+        return [
+            "🎯 Impact over aesthetics — tools that solve problems",
+            "🏗️ Shipping beats perfecting — 6+ live products in production",
+            "🧠 End-to-end ownership — data → model → deployment → iteration",
+            "📊 Explainability matters — SHAP, feature importance, transparency"
+        ]
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Production_Projects-6-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Active_Deployments-6-00C851?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML_Models_Deployed-2-FF4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs_Integrated-4-20BEFF?style=for-the-badge" />
-</p>
+### 🌟 **What Makes Me Different**
 
----
-
-### 🚀 About Me
-
-I started my ML journey analyzing **50 rows of cricket data**. Today I'm shipping production-grade machine learning products trained on millions of records and used by real people.
-
-**What drives me:**
-- 🎯 **Impact over aesthetics** — I build tools that solve real problems, not just look good on GitHub
-- 🏗️ **Shipping beats perfecting** — deployed 6+ live ML products, iterated based on actual user feedback
-- 🧠 **End-to-end ownership** — from data scraping to model training to cloud deployment, I handle it all
-- 📊 **Explainability matters** — SHAP analysis, feature importance, and making ML decisions transparent
-
-**Currently:**
-- 🏏 Maintaining **IPL Match Predictor** — XGBoost model trained on 16 years of ball-by-ball data with SHAP-based explainability
-- 🌐 Building **Digital Mushayara** — Flask-based poetry platform with auto-publishing pipeline and CMS (261+ original Urdu/Hindi pieces)
-- 💼 Creating **CareerIQ** — job intelligence platform processing 30k+ listings with TF-IDF matching and WhatsApp reports via Twilio API
-- 🎓 Running **PrepStation** — open-source placement prep portal serving CS students with DSA, aptitude & interview resources
-
-**What sets me apart:**
-- I don't just follow tutorials — I identify gaps and build solutions (spotted placement GK problem → built TechDesk news aggregator)
-- I deploy to production, not just Jupyter notebooks — every project has a live URL
-- I iterate based on real usage — fixed SHAP/numba conflicts, session state bugs, UI/UX issues through actual user feedback
-- I document obsessively — Reports for mini projects, detailed READMEs, LinkedIn breakdowns
-
-**Beyond the code:**
-- 🌙 Published poet with **261+ original Urdu/Hindi shaayaris** organized into multi-volume collection "Kaanton ka Gulaab"
-- 🏏 Cricket analytics enthusiast — built predictors, studied team dynamics, analyzed playing XI impact
-
-**Open to:**
-- 💼 **Internships** in Data Science, ML Engineering & Python Development
-- 🤝 **Collaborations** on real-world ML products
-- 💡 **Challenging problems** where data meets impact
+- 📈 **Started small, scaled big:** My ML journey began with 50 rows of cricket data. Now I'm processing millions of records.
+- 🚀 **Production-first mindset:** Every project has a live URL. I iterate based on actual user feedback, not localhost fantasies.
+- 🔍 **Explainable AI advocate:** SHAP analysis, feature importance — making ML decisions transparent and trustworthy.
+- 📚 **Beyond code:** Published poet with 261+ original Urdu/Hindi shaayaris, cricket analytics enthusiast, lifelong learner.
 
 ---
 
-### 🧰 Tech Arsenal
+## 🚀 **Live Production Projects**
 
-#### 🐍 Core Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
-</p>
+<div align="center">
 
-#### 🤖 ML & Data Science
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="tensorflow" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" height="48" alt="jupyter" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" height="48" alt="streamlit" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib" />
-</p>
+### 🎯 **Featured Deployments**
 
-**Specialized:** XGBoost · SHAP · TF-IDF · EfficientNet · Feature Engineering · Model Explainability
+| Project | Description | Tech Stack | Live Link |
+|---------|-------------|------------|-----------|
+| **🏏 IPL Predictor 2026** | XGBoost classifier on 16 years of data with SHAP explainability | Python • XGBoost • SHAP • Streamlit | [![App](https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ipl-predictor-79.streamlit.app) |
+| **💼 CareerIQ** | Job intelligence platform with 30k+ listings & TF-IDF matching | Python • scikit-learn • Twilio • Streamlit | [![App](https://img.shields.io/badge/Live-20BEFF?style=flat-square&logo=streamlit&logoColor=white)](https://careeriq-mkv.streamlit.app) |
+| **🌙 Digital Mushayara** | Poetry platform with 261+ pieces, CMS & story generator | Flask • SQLite • JavaScript | [![App](https://img.shields.io/badge/Live-6C3483?style=flat-square&logo=python&logoColor=white)](https://nadeemmemon.pythonanywhere.com) |
+| **🛡️ AttendGuard** | Firebase-backed attendance tracker with analytics | JavaScript • Firebase • Chart.js | [![App](https://img.shields.io/badge/Live-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://attendguard.web.app) |
+| **🎓 PrepStation** | Open-source placement prep hub for CS students | React • Vercel • TailwindCSS | [![App](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://prepstation.vercel.app) |
+| **🗞️ TechDesk** | AI-powered tech news aggregator with Gemini API | React • Gemini API • Vercel | [![App](https://img.shields.io/badge/Live-61DAFB?style=flat-square&logo=react&logoColor=black)](https://techdesk-seven.vercel.app) |
 
-#### 🌐 Web & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flask,tailwind,firebase,sqlite" />
-</p>
-
-#### ⚙️ Deployment & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/PythonAnywhere-3776AB?style=flat-square&logo=python&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" height="32"/>
-  <img src="https://img.shields.io/badge/Twilio%20API-F22F46?style=flat-square&logo=twilio&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="32"/>
-</p>
+</div>
 
 ---
-
-### 🏗️ Production Projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🏏 [IPL Match Predictor 2026](https://github.com/nadeem12-cloud/ipl-predictor)
-**The flagship ML product**
-
-XGBoost classifier trained on **16 years of ball-by-ball data** (2008-2024) with Playing XI as core feature set. Deployed with SHAP-based explainability for transparent predictions.
-
-**Impact:**
-- 🎯 **ROC-AUC: 0.69** · Accuracy: ~62%
-- 🔍 SHAP force plots for every prediction
-- 🏏 Playing XI detection & impact analysis
-- 📊 Team performance tracking
-
-**Stack:** Python · XGBoost · SHAP · Streamlit · Pandas
-
-[![Live App](https://img.shields.io/badge/🚀_Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ipl-predictor-79.streamlit.app)
-[![Code](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem12-cloud/ipl-predictor)
-
-</td>
-<td width="50%">
-
-#### 📊 [CareerIQ](https://github.com/nadeem12-cloud/CareerIQ)
-**Job intelligence platform**
-
-TF-IDF powered job matching across **30k+ listings** from JSearch API. WhatsApp reports via Twilio API for instant job alerts.
-
-**Features:**
-- 🔍 **58 cities** · 8 job roles
-- 📱 WhatsApp integration via Twilio
-- 🎯 TF-IDF based smart matching
-- 📈 Live job market analytics
-
-**Stack:** Python · TF-IDF · scikit-learn · Twilio · Streamlit
-
-[![Live App](https://img.shields.io/badge/🚀_Live_App-20BEFF?style=for-the-badge&logo=streamlit&logoColor=white)](https://careeriq-mkv.streamlit.app)
-[![Code](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem12-cloud/CareerIQ)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 🌙 [Digital Mushayara](https://github.com/nadeem12-cloud/digital-mushayara)
-**Poetry platform with auto-publishing**
-
-Full-stack Flask app with SQLite backend hosting **261+ original Urdu/Hindi shaayaris**. Built admin CMS, Instagram story generator, and reading mode.
-
-**Features:**
-- 📖 **261+ poems** across multiple categories
-- 🎨 Instagram story card generator
-- 🔍 Search, filter & save functionality
-- 📊 Stats dashboard & analytics
-- 🎯 Individual shaayari URLs with routing
-
-**Stack:** Flask · SQLite · JavaScript · HTML/CSS
-
-[![Live App](https://img.shields.io/badge/🚀_Live_App-6C3483?style=for-the-badge&logo=python&logoColor=white)](https://nadeemmemon.pythonanywhere.com)
-[![Code](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem12-cloud/digital-mushayara)
-
-</td>
-<td width="50%">
-
-#### 🛡️ [AttendGuard](https://github.com/nadeem12-cloud/AttendGuard)
-**Attendance tracker for students**
-
-Firebase-backed attendance management used by real college friends. Dark/light theme, calendar editor, and analytics dashboard.
-
-**Features:**
-- 🔐 Firebase Authentication
-- 📊 Chart.js visualizations
-- 📅 Calendar-based editor
-- 🎨 Dark/light theme toggle
-- 📈 Attendance analytics
-
-**Stack:** JavaScript · Firebase · Chart.js · HTML/CSS
-
-[![Live App](https://img.shields.io/badge/🚀_Live_App-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://attendguard.web.app)
-[![Code](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem12-cloud/AttendGuard)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 🎓 [PrepStation](https://github.com/nadeem12-cloud/PrepStation)
-**Open-source placement prep portal**
-
-React-based resource hub for CS placement preparation — DSA, aptitude, company-wise interview prep, all in one place.
-
-**Coverage:**
-- 💻 DSA problem sets
-- 🧮 Aptitude resources
-- 🏢 Company-wise prep
-- 📚 Interview guides
-
-**Stack:** React · Vercel · TailwindCSS
-
-[![Live App](https://img.shields.io/badge/🚀_Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prepstation.vercel.app)
-[![Code](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem12-cloud/PrepStation)
-
-</td>
-<td width="50%">
-
-#### 🗞️ [TechDesk](https://github.com/nadeem12-cloud/TechDesk)
-**AI-powered tech news aggregator**
-
-React app with Gemini API integration for AI-summarized tech news. Built to solve placement GK gap — deployed on Vercel.
-
-**Features:**
-- 🤖 Gemini API integration
-- 📰 Live tech news feed
-- ✨ AI-powered summaries
-- 🎯 Industry knowledge prep
-
-**Stack:** React · Gemini API · Vercel
-
-[![Live App](https://img.shields.io/badge/🚀_Live_App-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://techdesk-seven.vercel.app)
-[![Code](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem12-cloud/TechDesk)
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Analytics
 
 <details open>
-<summary><b>📈 Performance Metrics (Click to collapse)</b></summary>
+<summary><h2>🏏 IPL Match Predictor 2026 — The Flagship Product</h2></summary>
+
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeem12-cloud&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=nadeem12-cloud&hide_border=true&theme=tokyonight" width="49%" />
+<div align="center">
+  <img src="https://img.shields.io/badge/ROC_AUC-0.69-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Accuracy-62%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Training_Data-16_Years-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model-XGBoost-orange?style=for-the-badge" />
+</div>
+
+<br/>
+
+**The Problem:** Cricket match predictions are usually black boxes. Users get a percentage but no explanation of *why*.
+
+**The Solution:** Built an XGBoost classifier trained on ball-by-ball IPL data (2008-2024) with **Playing XI** as the core feature set. Every prediction comes with SHAP force plots showing exactly which factors influenced the outcome.
+
+### 🎯 **Key Features**
+
+- **📊 SHAP Explainability:** Force plots for every prediction showing feature contributions
+- **🏏 Playing XI Detection:** Auto-detect team lineups and analyze their impact
+- **📈 Live Match Integration:** Real-time data from ESPN Cricinfo
+- **🌦️ Weather & Conditions:** Venue, toss, weather factors integrated
+- **📊 Team Performance Tracking:** Historical analysis and trends
+
+### 🛠️ **Tech Stack**
+
+```
+Python • XGBoost • SHAP • Pandas • NumPy • Streamlit • BeautifulSoup • Requests
+```
+
+### 📦 **Data Pipeline**
+
+1. **Scraping:** Ball-by-ball data from multiple sources (2008-2024)
+2. **Feature Engineering:** 20+ features including Playing XI, venue stats, team form
+3. **Model Training:** XGBoost with hyperparameter tuning
+4. **Explainability:** SHAP values via native `pred_contribs` for speed
+5. **Deployment:** Streamlit Cloud with session state management
+
+### 🏆 **Impact**
+
+- Real users making informed betting decisions
+- Iterated based on actual feedback (fixed SHAP/numba conflicts, UI bugs)
+- Featured in college project showcases
+
+<div align="center">
+  
+[![Live App](https://img.shields.io/badge/🚀_Try_It_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ipl-predictor-79.streamlit.app)
+[![View Code](https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem12-cloud/ipl-predictor)
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><h2>💼 CareerIQ — Job Intelligence Platform</h2></summary>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Job_Listings-30k+-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cities_Covered-58-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-Twilio_WhatsApp-blueviolet?style=for-the-badge" />
+</div>
+
+<br/>
+
+**The Problem:** Job hunting is overwhelming. Sifting through thousands of listings manually is time-consuming and inefficient.
+
+**The Solution:** TF-IDF powered job recommendation engine that processes 30k+ listings and sends personalized WhatsApp reports via Twilio API.
+
+### 🎯 **Key Features**
+
+- **🔍 Smart Matching:** TF-IDF cosine similarity for resume-job alignment
+- **📱 WhatsApp Integration:** Instant job alerts via Twilio API
+- **📊 Market Analytics:** Live job market insights and trends
+- **🎯 Multi-Role Support:** 8 job roles across 58 Indian cities
+- **⏰ Automated Scheduling:** APScheduler for periodic updates
+
+### 🛠️ **Tech Stack**
+
+```
+Python • scikit-learn • TF-IDF • Twilio API • Streamlit • Pandas • APScheduler
+```
+
+### 📦 **How It Works**
+
+1. User inputs resume/skills
+2. System fetches latest jobs from JSearch API
+3. TF-IDF vectorization calculates match scores
+4. Top matches sent via WhatsApp (Twilio)
+5. Scheduled updates for new postings
+
+<div align="center">
+  
+[![Live App](https://img.shields.io/badge/🚀_Try_It_Live-20BEFF?style=for-the-badge&logo=streamlit&logoColor=white)](https://careeriq-mkv.streamlit.app)
+[![View Code](https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem12-cloud/CareerIQ)
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><h2>🌙 Digital Mushayara — Poetry Platform</h2></summary>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Original_Poems-261+-6C3483?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Urdu%20%7C%20Hindi-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collection-Kaanton_ka_Gulaab-purple?style=for-the-badge" />
+</div>
+
+<br/>
+
+**The Story:** I'm a published poet with 261+ original Urdu/Hindi shaayaris. I needed a platform to showcase my work with professional presentation.
+
+**The Solution:** Full-stack Flask application with SQLite backend, admin CMS, Instagram story generator, and reading mode.
+
+### 🎯 **Key Features**
+
+- **📖 261+ Original Pieces:** Organized into multi-volume collection
+- **🎨 Instagram Story Generator:** Auto-create shareable cards
+- **🔍 Advanced Search:** Filter by category, mood, theme
+- **💾 Save Functionality:** localStorage-based favorites
+- **📊 Analytics Dashboard:** View counts, reactions, engagement
+- **🎯 Individual URLs:** Deep linking to specific shaayaris
+- **🌓 Reading Mode:** Distraction-free poetry experience
+
+### 🛠️ **Tech Stack**
+
+```
+Flask • SQLite • JavaScript • HTML/CSS • Python • ReportLab (PDF generation)
+```
+
+### 📚 **Collections**
+
+- **Volume I:** "Kaanton ka Gulaab" (51 pieces, 5 sections)
+- **Volume II:** "Zakhmon ka Mausam" (4 sections)
+- **Volume III:** "Khamoshi ka Sheher" (planned)
+- **Special:** "Qaidkhaana Trilogy" with distinct aesthetic
+
+<div align="center">
+  
+[![Live App](https://img.shields.io/badge/🚀_Visit_Platform-6C3483?style=for-the-badge&logo=python&logoColor=white)](https://nadeemmemon.pythonanywhere.com)
+[![View Code](https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem12-cloud/digital-mushayara)
+
+</div>
+
+</details>
+
+---
+
+## 🧰 **Tech Arsenal**
+
+<details open>
+<summary><b>Click to expand complete tech stack</b></summary>
+
+<br/>
+
+### **💻 Languages**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem12-cloud&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeem12-cloud&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="49%" />
+### **🤖 Machine Learning & Data Science**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP-FF0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+**Specialized Skills:** TF-IDF · Feature Engineering · Model Explainability · EfficientNet · Data Preprocessing · Hyperparameter Tuning
+
+### **🌐 Web Development**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### **⚙️ Tools & Deployment**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
+
+### **🔌 APIs & Integrations**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP_Cricinfo-09AA5E?style=for-the-badge&logo=espn&logoColor=white" />
 </p>
 
 </details>
 
 ---
 
-### 🏆 Achievements
+## 📊 **GitHub Performance**
+
+<div align="center">
+
+### **📈 Statistics & Metrics**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nadeem12-cloud&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=nadeem12-cloud&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&cache_seconds=1800" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem12-cloud&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=10&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadeem12-cloud&theme=react-dark&bg_color=0D1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&hide_border=true&cache_seconds=3600" />
+
+</div>
+
+---
+
+## 🏆 **Achievements & Recognition**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadeem12-cloud&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nadeem12-cloud&theme=radical&no-bg=true&no-frame=true&margin-w=10&column=7&rank=-C" />
 </p>
 
 ---
 
-### 🎓 Certifications & Learning
+## 📜 **Certifications**
 
-- 🤖 **AI Fluency for Students** — Anthropic (2026)
-- 🤖 **Claude 101** — Anthropic (2026)
+<div align="center">
 
----
+| Certificate | Issuer | Year | Status |
+|-------------|--------|------|--------|
+| 🤖 **AI Fluency for Students** | Anthropic | 2026 | ✅ Completed |
+| 🧠 **Claude 101** | Anthropic | 2026 | ✅ Completed |
 
-### 💡 Philosophy
-
-> **"Every big project starts somewhere — mine started with 50 rows of data."**
-
-I believe in:
-- **Shipping over perfecting** — iterate in production, not in localhost
-- **Impact over vanity metrics** — real users > GitHub stars
-- **Transparency in ML** — SHAP analysis, feature importance, explainable predictions
-- **End-to-end ownership** — from problem identification to deployment maintenance
+</div>
 
 ---
 
-### 📬 Let's Connect
+## 💡 **My Philosophy**
+
+<div align="center">
+
+> ### *"Every big project starts somewhere — mine started with 50 rows of data."*
+
+<br/>
+
+**I believe in:**
+
+🚀 **Shipping over perfecting** — Iterate in production, not in localhost  
+📊 **Impact over vanity metrics** — Real users > GitHub stars  
+🔍 **Transparency in ML** — SHAP analysis, feature importance, explainable predictions  
+🧠 **End-to-end ownership** — From problem identification to deployment maintenance  
+📚 **Continuous learning** — Every project teaches something new  
+
+</div>
+
+---
+
+## 🎯 **Current Focus**
+
+```yaml
+Learning:
+  - Deep Learning architectures
+  - Advanced feature engineering
+  - Cloud deployment (AWS/GCP)
+  - LLM fine-tuning
+
+Building:
+  - Enhanced IPL predictor with player-level predictions
+  - Multi-lingual poetry platform expansion
+  - Automated job application system
+
+Open To:
+  - Data Science Internships
+  - ML Engineering roles
+  - Full-Stack Python positions
+  - Open-source collaborations
+```
+
+---
+
+## 📬 **Let's Connect & Collaborate**
 
 <p align="center">
-  <a href="https://linkedin.com/in/nadeemmemon10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>
-  <a href="https://github.com/nadeem12-cloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
-  <a href="https://instagram.com/talksicknadeem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32"/></a>
-  <a href="mailto:nadeemmemon735@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>
+  <a href="https://linkedin.com/in/nadeemmemon10">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nadeemmemon735@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nadeem12-cloud">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Open to internships, collaborations, and building products that matter.</strong>
+  <img src="https://img.shields.io/badge/💼_Open_to-Internships-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Available_for-Collaborations-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡_Interested_in-Real_World_ML-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadeem12-cloud&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/Last_Updated-April_2026-24243E?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/nadeem12-cloud?style=for-the-badge&color=302b63&labelColor=0f0c29" />
-</p>
+<div align="center">
 
+### 🌟 **"Building products that matter, one commit at a time."** 🌟
+
+<br/>
+
+<img src="https://img.shields.io/badge/Last_Updated-April_2026-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
+**⭐ If you like my work, consider starring my repos! ⭐**
+
+<br/>
+
+</div>
+
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
 </p>
