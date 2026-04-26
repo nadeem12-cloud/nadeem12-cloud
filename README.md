@@ -36,6 +36,12 @@
 
 ## 🎯 **About Me**
 
+<table>
+<tr>
+<td>
+
+**🚀 Quick Intro**
+
 ```python
 class DataScientist:
     def __init__(self):
@@ -44,32 +50,46 @@ class DataScientist:
         self.education = "B.Tech CSE @ MBIT, Gujarat"
         self.focus = ["Machine Learning", "Data Science", "Production Deployment"]
         self.philosophy = "Ship products that solve real problems"
-        
-    def current_work(self):
-        return {
-            "🏏 IPL Predictor": "XGBoost model on 16 years of ball-by-ball data",
-            "🌙 Digital Mushayara": "Poetry platform with 261+ original pieces",
-            "💼 CareerIQ": "Job intelligence across 30k+ listings",
-            "🎓 PrepStation": "Open-source placement prep portal"
-        }
-    
-    def tech_stack(self):
-        return {
-            "languages": ["Python", "JavaScript", "SQL"],
-            "ml_frameworks": ["XGBoost", "TensorFlow", "scikit-learn", "SHAP"],
-            "web": ["React", "Flask", "TailwindCSS"],
-            "deployment": ["Streamlit Cloud", "Vercel", "PythonAnywhere", "Firebase"],
-            "tools": ["Git", "Jupyter", "Google Colab", "Postman"]
-        }
-    
-    def what_drives_me(self):
-        return [
-            "🎯 Impact over aesthetics — tools that solve problems",
-            "🏗️ Shipping beats perfecting — 6+ live products in production",
-            "🧠 End-to-end ownership — data → model → deployment → iteration",
-            "📊 Explainability matters — SHAP, feature importance, transparency"
-        ]
 ```
+
+</td>
+<td>
+
+**💼 Current Work**
+
+- 🏏 **IPL Predictor** — XGBoost on 16 years of data
+- 🌙 **Digital Mushayara** — 261+ original poems
+- 💼 **CareerIQ** — 30k+ job listings platform
+- 🎓 **PrepStation** — Open-source prep portal
+
+</td>
+</tr>
+</table>
+
+**🔧 Tech Stack at a Glance**
+
+<details>
+<summary>Click to expand</summary>
+
+```python
+def tech_stack(self):
+    return {
+        "languages": ["Python", "JavaScript", "SQL"],
+        "ml_frameworks": ["XGBoost", "TensorFlow", "scikit-learn", "SHAP"],
+        "web": ["React", "Flask", "TailwindCSS"],
+        "deployment": ["Streamlit Cloud", "Vercel", "PythonAnywhere", "Firebase"],
+        "tools": ["Git", "Jupyter", "Google Colab", "Postman"]
+    }
+```
+
+</details>
+
+**💪 What Drives Me**
+
+- 🎯 **Impact over aesthetics** — tools that solve problems, not just look good
+- 🏗️ **Shipping beats perfecting** — 6+ live products in production
+- 🧠 **End-to-end ownership** — data → model → deployment → iteration
+- 📊 **Explainability matters** — SHAP, feature importance, transparency
 
 ### 🌟 **What Makes Me Different**
 
@@ -384,24 +404,38 @@ Flask • SQLite • JavaScript • HTML/CSS • Python • ReportLab (PDF gener
 
 ## 🎯 **Current Focus**
 
-```yaml
-Learning:
-  - Deep Learning architectures
-  - Advanced feature engineering
-  - Cloud deployment (AWS/GCP)
-  - LLM fine-tuning
+<table>
+<tr>
+<td width="50%">
 
-Building:
-  - Enhanced IPL predictor with player-level predictions
-  - Multi-lingual poetry platform expansion
-  - Automated job application system
+### 📚 **Learning**
+- Deep Learning architectures
+- Advanced feature engineering
+- Cloud deployment (AWS/GCP)
+- LLM fine-tuning
 
-Open To:
-  - Data Science Internships
-  - ML Engineering roles
-  - Full-Stack Python positions
-  - Open-source collaborations
-```
+</td>
+<td width="50%">
+
+### 🏗️ **Building**
+- Enhanced IPL predictor with player-level predictions
+- Multi-lingual poetry platform expansion
+- Automated job application system
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 💼 **Open To**
+🎯 Data Science Internships  
+🤖 ML Engineering roles  
+🐍 Full-Stack Python positions  
+🤝 Open-source collaborations
+
+</td>
+</tr>
+</table>
 
 ---
 
