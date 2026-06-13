@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Building+ML+Products+That+Solve+Real+Problems;6%2B+Live+Deployments+%7C+Actual+Users+%7C+Real+Impact;From+50+Rows+to+Millions+of+Records;Shipping+%3E+Perfecting+%7C+Production+%3E+Localhost" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Building+ML+Products+That+Solve+Real+Problems;7%2B+Live+Deployments+%7C+Actual+Users+%7C+Real+Impact;From+50+Rows+to+100k%2B+Records;Shipping+%3E+Perfecting+%7C+Production+%3E+Localhost" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Social Proof -->
@@ -45,6 +45,7 @@
 
 ### 🚀 **What I Do**
 
+- 📚 **BookSoul** — AI-powered reading personality platform using Big Five psychology + ML (100k book corpus, TF-IDF recommendations)
 - 🏏 **IPL Predictor** — XGBoost model trained on 16 years of ball-by-ball data with SHAP explainability
 - 🌙 **Digital Mushayara** — Poetry platform hosting 261+ original Urdu/Hindi pieces with CMS
 - 💼 **CareerIQ** — Job intelligence engine processing 30k+ listings with TF-IDF matching
@@ -54,20 +55,20 @@
 
 **Languages:** Python • JavaScript • SQL • HTML/CSS  
 **ML & Data:** XGBoost • TensorFlow • scikit-learn • SHAP • Pandas • NumPy  
-**Web Development:** React • Flask • TailwindCSS • Streamlit  
-**Deployment:** Streamlit Cloud • Vercel • PythonAnywhere • Firebase  
-**Tools:** Git • Jupyter • Google Colab • Postman
+**Web Development:** React • Flask • FastAPI • TailwindCSS • Streamlit  
+**Deployment:** Streamlit Cloud • Vercel • PythonAnywhere • Firebase • Railway  
+**Tools:** Git • Jupyter • Google Colab • Postman • Docker
 
 ### 💪 **What Drives Me**
 
 - 🎯 **Impact over aesthetics** — Building tools that solve real problems, not just look good on GitHub
-- 🏗️ **Shipping beats perfecting** — 6+ live products in production, iterating based on real user feedback
+- 🏗️ **Shipping beats perfecting** — 7+ live products in production, iterating based on real user feedback
 - 🧠 **End-to-end ownership** — From data scraping to model training to cloud deployment
 - 📊 **Explainability matters** — SHAP analysis, feature importance, transparent ML decisions
 
 ### 🌟 **What Makes Me Different**
 
-- 📈 **Started small, scaled big:** My ML journey began with 50 rows of cricket data. Now I'm processing millions of records.
+- 📈 **Started small, scaled big:** My ML journey began with 50 rows of cricket data. Now I'm processing 100k+ records.
 - 🚀 **Production-first mindset:** Every project has a live URL. I iterate based on actual user feedback, not localhost fantasies.
 - 🔍 **Explainable AI advocate:** SHAP analysis, feature importance — making ML decisions transparent and trustworthy.
 - 📚 **Beyond code:** Published poet with 261+ original Urdu/Hindi shaayaris, cricket analytics enthusiast, lifelong learner.
@@ -82,14 +83,93 @@
 
 | Project | Description | Tech Stack | Live Link |
 |---------|-------------|------------|-----------|
+| **📚 BookSoul** | AI reading personality platform with 100k books, personality inference & recommendations | Python • FastAPI • scikit-learn • Vanilla JS | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nadeem12-cloud/BookSoul) |
 | **🏏 IPL Predictor 2026** | XGBoost classifier on 16 years of data with SHAP explainability | Python • XGBoost • SHAP • Streamlit | [![App](https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ipl-predictor-79.streamlit.app) |
 | **💼 CareerIQ** | Job intelligence platform with 30k+ listings & TF-IDF matching | Python • scikit-learn • Twilio • Streamlit | [![App](https://img.shields.io/badge/Live-20BEFF?style=flat-square&logo=streamlit&logoColor=white)](https://careeriq-mkv.streamlit.app) |
 | **🌙 Digital Mushayara** | Poetry platform with 261+ pieces, CMS & story generator | Flask • SQLite • JavaScript | [![App](https://img.shields.io/badge/Live-6C3483?style=flat-square&logo=python&logoColor=white)](https://nadeemmemon.pythonanywhere.com) |
 | **🛡️ AttendGuard** | Firebase-backed attendance tracker with analytics | JavaScript • Firebase • Chart.js | [![App](https://img.shields.io/badge/Live-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://attendguard.web.app) |
 | **🎓 PrepStation** | Open-source placement prep hub for CS students | React • Vercel • TailwindCSS | [![App](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://prepstation.vercel.app) |
-| **🗞️ TechDesk** | AI-powered tech news aggregator with Gemini API | React • Gemini API • Vercel | [![App](https://img.shields.io/badge/Live-61DAFB?style=flat-square&logo=react&logoColor=black)](https://techdesk-seven.vercel.app) |
 
 </div>
+
+---
+
+<details open>
+<summary><h2>📚 BookSoul — AI-Powered Reading Personality Platform</h2></summary>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Data-100k+_Books-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-TF_IDF-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Full_Stack-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open_Source-green?style=for-the-badge" />
+</div>
+
+<br/>
+
+**The Problem:** How can we understand readers' personalities through their reading patterns? What makes a book recommendation truly personal?
+
+**The Solution:** Full-stack ML platform analyzing reading history to infer Big Five personality traits and generate multi-strategy personalized recommendations.
+
+### 🎯 **Key Features**
+
+- **🧠 Personality Inference:** Big Five personality mapping based on 16-genre taxonomy
+- **📊 Multi-Strategy Recommendations:**
+  - TF-IDF content-based filtering
+  - Author affinity scoring
+  - Personality-aligned filtering
+  - Diversity injection (genre exploration)
+- **📈 Evolution Tracking:** Track how personality changes with reading patterns
+- **🦉 Archetype Detection:** Classify users into 9 reading archetypes
+- **📱 Responsive Design:** Mobile-first newspaper aesthetic UI
+
+### 🛠️ **Tech Stack**
+
+```
+Backend: FastAPI • scikit-learn (TF-IDF) • pandas
+Frontend: Vanilla JavaScript • Chart.js • LocalStorage
+Data: Goodreads 100k+ catalog • Custom NLP graph
+```
+
+### 📦 **Architecture**
+
+```
+100k book catalog (backend)
+        ↓
+TF-IDF vectorization + personality mapping
+        ↓
+Multi-strategy recommendation engine
+        ↓
+Optimized JSON (0.84 MB) → Frontend
+        ↓
+Interactive UI with visualizations
+```
+
+### 🎓 **What This Demonstrates**
+
+- ✅ **Full-stack development** (FastAPI backend + Vanilla JS frontend + ML pipeline)
+- ✅ **Data science workflow** (ETL, feature engineering, personality modeling)
+- ✅ **Performance optimization** (19.7MB → 0.84MB data reduction)
+- ✅ **System design** (modular architecture, multi-strategy algorithms)
+- ✅ **3-tier genre classification** (handling messy categorical data)
+
+### 🚀 **Roadmap (V2)**
+
+- [ ] Sentence Transformers embeddings for semantic search
+- [ ] PostgreSQL + pgvector for production scale
+- [ ] Docker containerization
+- [ ] User authentication & social features
+- [ ] Reading goal tracking
+
+<div align="center">
+  
+[![GitHub Repo](https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadeem12-cloud/BookSoul)
+[![Clone](https://img.shields.io/badge/🚀_Clone_&_Run-000000?style=for-the-badge&logo=git&logoColor=white)](https://github.com/nadeem12-cloud/BookSoul#-quick-start)
+
+</div>
+
+</details>
 
 ---
 
@@ -281,29 +361,31 @@ Flask • SQLite • JavaScript • HTML/CSS • Python • ReportLab (PDF gener
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-**Specialized Skills:** TF-IDF · Feature Engineering · Model Explainability · EfficientNet · Data Preprocessing · Hyperparameter Tuning
+**Specialized Skills:** TF-IDF · Feature Engineering · Model Explainability · EfficientNet · Data Preprocessing · Hyperparameter Tuning · Personality Inference
 
-### **🌐 Web Development**
+### **🌐 Web Development & Backend**
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### **⚙️ Tools & Deployment**
+### **⚙️ Tools & DevOps**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
 
 ### **🔌 APIs & Integrations**
@@ -312,7 +394,7 @@ Flask • SQLite • JavaScript • HTML/CSS • Python • ReportLab (PDF gener
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP_Cricinfo-09AA5E?style=for-the-badge&logo=espn&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESPN_Cricinfo-09AA5E?style=for-the-badge&logo=espn&logoColor=white" />
 </p>
 
 </details>
@@ -351,6 +433,8 @@ Flask • SQLite • JavaScript • HTML/CSS • Python • ReportLab (PDF gener
 |-------------|--------|------|--------|
 | 🤖 **AI Fluency for Students** | Anthropic | 2026 | ✅ Completed |
 | 🧠 **Claude 101** | Anthropic | 2026 | ✅ Completed |
+| ☁️ **AWS Cloud Fundamentals** | AWS | 2025 | ✅ Completed |
+| 🐍 **Python for Data Science** | Internshala | 2025 | ✅ Completed |
 
 </div>
 
@@ -371,23 +455,30 @@ Flask • SQLite • JavaScript • HTML/CSS • Python • ReportLab (PDF gener
 🔍 **Transparency in ML** — SHAP analysis, feature importance, explainable predictions  
 🧠 **End-to-end ownership** — From problem identification to deployment maintenance  
 📚 **Continuous learning** — Every project teaches something new  
+🤖 **Building intelligent systems** — Not just models, but products people actually use  
 
 </div>
 
 ---
 
-## 🎯 **Current Focus**
+## 🎯 **Current Focus & Updates (June 2026)**
+
+### 📚 **Just Shipped**
+- ✅ **BookSoul V1** — Launched full-stack ML platform with 100k book catalog & personality inference
+- ✅ **GitHub Quality** — All projects have clean repos with detailed READMEs and documentation
+- ✅ **Technical Writing** — Sharing project launches and insights across platforms
+
+### 🏗️ **In Progress**
+- 🐳 Docker containerization for BookSoul (portfolio enhancement)
+- 🎓 System design & interview preparation
+- 🔬 Research on personality inference validation
+- 💼 Exploring opportunities in ML & Full-Stack roles
 
 ### 📚 **Learning**
-- 🧠 Deep Learning architectures
-- ⚙️ Advanced feature engineering techniques
-- ☁️ Cloud deployment (AWS/GCP)
-- 🤖 LLM fine-tuning and prompt engineering
-
-### 🏗️ **Building**
-- 🏏 Enhanced IPL predictor with player-level predictions
-- 🌍 Multi-lingual poetry platform expansion
-- 🤖 Automated job application system with AI screening
+- 🧠 Advanced feature engineering & ensemble methods
+- ⚙️ System design & distributed architecture
+- ☁️ Containerization & DevOps practices
+- 🤖 Transformer-based embeddings for semantic search
 
 ### 💼 **Open To**
 
@@ -396,6 +487,7 @@ Flask • SQLite • JavaScript • HTML/CSS • Python • ReportLab (PDF gener
   <img src="https://img.shields.io/badge/🤖_ML_Engineering-Roles-6366f1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🐍_Full--Stack_Python-Positions-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤝_Open--Source-Collaborations-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏗️_System_Design-Mentorship-blueviolet?style=for-the-badge" />
 </p>
 
 ---
@@ -418,6 +510,7 @@ Flask • SQLite • JavaScript • HTML/CSS • Python • ReportLab (PDF gener
   <img src="https://img.shields.io/badge/💼_Open_to-Internships-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤝_Available_for-Collaborations-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💡_Interested_in-Real_World_ML-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📧_Reach_Out-anytime-green?style=for-the-badge" />
 </p>
 
 ---
@@ -428,7 +521,7 @@ Flask • SQLite • JavaScript • HTML/CSS • Python • ReportLab (PDF gener
 
 <br/>
 
-<img src="https://img.shields.io/badge/Last_Updated-April_2026-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Last_Updated-June_2026-6366f1?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/><br/>
 
