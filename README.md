@@ -27,7 +27,7 @@
   <a href="https://github.com/nadeem12-cloud">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
   </a>
-  <a href="https://instagram.com/talksicknadeem">
+  <a href="https://www.instagram.com/NONCHALANT_NADEEM.ZIP">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32"/>
   </a>
 </p>
