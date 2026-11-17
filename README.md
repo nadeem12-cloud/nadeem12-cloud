@@ -461,7 +461,7 @@ Flask • SQLite • JavaScript • HTML/CSS • Python • ReportLab (PDF gener
 
 ---
 
-## 🎯 **Current Focus & Updates (June 2026)**
+## 🎯 **reflect late 2026/2027**
 
 ### 📚 **Just Shipped**
 - ✅ **BookSoul V1** — Launched full-stack ML platform with 100k book catalog & personality inference
