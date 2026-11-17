@@ -215,7 +215,7 @@ Python • XGBoost • SHAP • Pandas • NumPy • Streamlit • BeautifulSoup
 
 ### 🏆 **Impact**
 
-- Real users making informed betting decisions
+- sports analytics and match-factor interpretation
 - Iterated based on actual feedback (fixed SHAP/numba conflicts, UI bugs)
 - Featured in college project showcases
 
